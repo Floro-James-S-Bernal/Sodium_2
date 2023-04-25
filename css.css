@@ -17,7 +17,18 @@ header, footer{
 article{
     margin-left: 10px;
 }
-aside{
+.List_Temp{
+    float: left;
+    width: 200px;
+    background-color: lightgreen;
+    padding: 50px;
+    margin-left: 40px;
+    font-size: 80%;
+    font-style: italic;
+    box-shadow: 3px 5px 3px 1px green;
+    position: relative; top: 40px;
+}
+.F1vid{
     float: right;
     width: 200px;
     background-color: lightgreen;
